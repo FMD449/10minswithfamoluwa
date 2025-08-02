@@ -113,3 +113,38 @@ footer {
   color: #fff;
   margin-top: 40px;
 }
+
+/* 🎧 Podcast Episodes Section */
+.podcast-episodes {
+  background-color: #f4f4f4;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.podcast-episodes h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.episode {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.episode h3 {
+  font-size: 1.2rem;
+  color: #222;
+  margin-bottom: 1rem;
+}
+
+audio {
+  width: 100%;
+  max-width: 500px;
+}
