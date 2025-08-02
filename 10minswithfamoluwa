@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>10MINS WITH FAMOLUWA</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <img src="images/logo.png" alt="Podcast Logo" class="logo" />
+    <h1>10MINS WITH FAMOLUWA</h1>
+    <p>Inspiring the Christian journey, one episode at a time</p>
+    <a href="episodes.html" class="btn">Listen to Episodes</a>
+  </header>
+
+  <nav class="nav-bar">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="episodes.html">Episodes</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <section class="intro">
+      <h2>Welcome</h2>
+      <p>Join Famoluwa every week for deep insights, truth, and encouragement from the Word of God.</p>
+      <img src="images/famoluwa.jpg" alt="Famoluwa" class="profile-pic" />
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 10MINS WITH FAMOLUWA. All rights reserved.</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
